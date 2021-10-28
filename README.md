@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning HTML coding and so I will probably have a website through this github account tracking my progress or something.
+
 
 <!--
 **CoziiFrog/CoziiFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
